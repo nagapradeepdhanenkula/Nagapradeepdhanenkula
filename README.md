@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/naga_pradeep7" target="blank"><img src="https://img.shields.io/twitter/follow/naga_pradeep7?logo=twitter&style=for-the-badge" alt="naga_pradeep7" /></a> </p>
 
-- 🌱 I’m currently learning **Exploring Modern Data Stack (dbt, Airbyte, Databricks) Azure Cloud (Already worked with AWS & GCP) How to architectect better data system**
+- 🌱 I’m currently learning **Exploring Modern Data Stack**
 
 - 💬 Ask me about **ML,Python,SQL,ETL,PySpark,AWS**
 
