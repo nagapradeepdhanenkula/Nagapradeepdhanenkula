@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ML,Python,SQL,ETL,PySpark,AWS**
 
-- 📫 How to reach me **nagapradeep100497@gmail.com**
+- 📫 How to reach me **nagapradeep247@gmail.com**
 
 - ⚡ Fun fact **"I'm a SQL ninja and can write complex queries in my sleep!"**
 
