@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NagaPradeep</h1>
-<h3 align="center">As a Data Scientist and MS in Data Science at the University of North Texas, I am dedicated to utilizing my skills and education to create efficient data processing systems that enable organizations to derive insights from their data. My expertise in Machine Learning· Apache Spark Streaming · Data Modeling · Kubernetes · Amazon Web Services (AWS) · Azure . GCP . Apache Kafka · Big Data · PySpark · data bricks · MongoDB · MySQL · Python (Programming Language) allows me to design and implement scalable data pipelines and infrastructure. Through my education and experience, I have developed a passion for utilizing data to drive innovation and solve complex problems. I am excited to continue my journey in the field of data science & analytics and contribute to creating data-driven solutions that benefit Organization.</h3>
+<h3 align="center">As a Cloud Data Engineer and MS in Data Science at the University of North Texas, I am dedicated to utilizing my skills and education to create efficient data processing systems that enable organizations to derive insights from their data. My expertise in Machine Learning· Apache Spark Streaming · Data Modeling · Kubernetes · Amazon Web Services (AWS) · Azure . GCP . Apache Kafka · Big Data · PySpark · data bricks · MongoDB · MySQL · Python (Programming Language) allows me to design and implement scalable data pipelines and infrastructure. creating efficient, parameterized data pipelines using both On-Prem and Cloud ETL tools for various use cases, including Data Migration of business applications and loading data into Data Warehouses on-premises and on the cloud. Additionally, I possess extensive knowledge in creating Ad Hoc automation scripts using Python to tackle complex challenges.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1841402/screenshots/5970701/deadline.gif">
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Exploring Modern Data Stack**
 
-- 💬 Ask me about **ML,Python,SQL,ETL,PySpark,AWS**
+- 💬 Ask me about **ML,Python,SQL,ETL,AWS,Azure,DBT,Snowflake,Databricks**
 
 - 📫 How to reach me **nagapradeep247@gmail.com**
 
